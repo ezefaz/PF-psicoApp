@@ -20,7 +20,7 @@
 
 PsicoApp is a web application that connects patients with psychologists from all over Argentina remotely, being able to create and log in with a patient or psychologist account, schedule, pay appointments with psychologists and even chat live with them.
 This App was developed using React, Redux, Tailwind, Material UI for the Front, Back developed in Node.js with Express, and PostgreSQL and Sequelize database. Payment method through Mercado Pago API. Internal chat via Socket IO.
-In this project I participated mostly from the backend side, all with a SCRUM framework.
+
 
 #### Technologies
 
